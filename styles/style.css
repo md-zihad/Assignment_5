@@ -5,3 +5,7 @@
             rgba(255, 255, 255, 0.00));
             background-blend-mode: multiply;
 }
+
+.color {
+    background-color: lime;
+}
